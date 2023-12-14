@@ -466,8 +466,8 @@ class WeatherCard extends LitElement {
         cursor: pointer;
         margin: auto;
         overflow: hidden;
-        padding-top: 2em;
-        padding-bottom: 1.3em;
+        padding-top: 2.2em;
+        padding-bottom: 2.2em;
         padding-left: 1em;
         padding-right: 1em;
         position: relative;
